@@ -4,4 +4,4 @@ seaborn
 matplotlib
 xgboost
 Flask
-streamlit
+Streamlit
