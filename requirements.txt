@@ -1,0 +1,7 @@
+nympy
+pandas
+seaborn
+matplotlib
+xgboost
+Flask
+streamlit
